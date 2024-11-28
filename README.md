@@ -25,9 +25,3 @@ Environnements de développement : IntelliJ, VS Code, Android Studio
 🌱 Explorer davantage les technologies NoSQL et l’intelligence artificielle.
 🤝 Collaborer sur des projets open source pour contribuer à la communauté tech.
 
-## 📊 Statistiques GitHub
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=haythem-djebbi&layout=compact&theme=radical)  
-![Contributions GitHub](https://github-readme-streak-stats.herokuapp.com/?user=haythem-djebbi&theme=radical&hide_border=true)
-
-![Contributions et Commits](https://komarev.com/ghpvc/?username=haythem-djebbi&color=brightgreen&style=flat)
